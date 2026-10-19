@@ -24,4 +24,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "DeviceInfologger-demo"
 include(":app")
- 
