@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeviceInfologger-demo</string>
+    <string name="greeting">こんにちは、%1$s！</string>
+</resources>
